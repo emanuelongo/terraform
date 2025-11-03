@@ -11,7 +11,7 @@ Para que pruebes lo que ya hay:
 1.3. terraform -version 
 
 2. Abre Docker Desktop y comprueba de que esté corriendo.
-3. Abre la terminal desde VSCode y ejecute:
+3. Abre la terminal desde VSCode con el proyecto abierto y ejecute:
    
 3.1. terraform init
 
