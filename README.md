@@ -1,7 +1,9 @@
 Para que pruebes lo que ya hay:
 
 1. Installa Terraform con Chocolatey:
+   
 1.1. Desde Powershell como administrador.
+
 1.2. Ejecuta esto:
    
    choco install terraform -y
